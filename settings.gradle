@@ -1,0 +1,4 @@
+rootProject.name='Laba5'
+include ':app'
+include ':part2'
+include ':part3'
